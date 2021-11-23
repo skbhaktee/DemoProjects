@@ -1,0 +1,6 @@
+1.Go to your This PC
+2.C drive
+3.Create folder Git Project
+4.Right click inside folder select start git bash here
+5.git init
+6.git clone https://github.com/Rakyesh24/24SepSDET.git

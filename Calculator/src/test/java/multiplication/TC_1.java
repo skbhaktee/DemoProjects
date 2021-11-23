@@ -37,7 +37,7 @@ hp.clickBtn(By.xpath("//span[contains(text(),'×')]"));
   
   Assert.assertEquals(actRes, expRes);
   
-  // change
+  // changed here
   }
   
   @BeforeTest
